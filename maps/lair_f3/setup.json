@@ -1,0 +1,44 @@
+{
+    "model2": [
+        {
+            "x_pos": 192.1,
+            "y_pos": 99,
+            "z_pos": 374.7,
+            "scale": 1.0,
+            "unk10": "440BA75E443BE000",
+            "angle18": 0.0,
+            "angle1C": 179.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 202,
+            "behaviour_name": "Ladder",
+            "unk2A": "000000010000"
+        },
+		{
+            "x_pos": 1077.3,
+            "y_pos": 202.9,
+            "z_pos": 396.2,	
+            "scale": 0.08,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 116,
+            "behaviour_name": "Golden Banana",
+            "unk2A": "000100020001"
+        }
+	],
+	"actors": [
+        {
+            "x_pos": 130.7,
+            "y_pos": 255.5,
+            "z_pos": 321.7,
+            "scale": 1.0,
+            "unk10": "00000000000000000000000000000000000000000000000000000000000000000000",
+            "behaviour": 121,
+            "behaviour_name": "Tag Barrel",
+            "unk34": "0001C950"
+        }
+    ]
+}

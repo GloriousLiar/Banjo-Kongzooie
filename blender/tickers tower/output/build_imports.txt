@@ -1,0 +1,84 @@
+	{
+		"name": "image_0005",
+		"pointer_table_index": 25,
+		"file_index": 6580,
+		"source_file": "bin/tickers_tower/image_0005.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005_pal",
+		"pointer_table_index": 25,
+		"file_index": 6581,
+		"source_file": "bin/tickers_tower/image_0005_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003",
+		"pointer_table_index": 25,
+		"file_index": 6582,
+		"source_file": "bin/tickers_tower/image_0003.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003_pal",
+		"pointer_table_index": 25,
+		"file_index": 6583,
+		"source_file": "bin/tickers_tower/image_0003_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004",
+		"pointer_table_index": 25,
+		"file_index": 6584,
+		"source_file": "bin/tickers_tower/image_0004.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004_pal",
+		"pointer_table_index": 25,
+		"file_index": 6585,
+		"source_file": "bin/tickers_tower/image_0004_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001",
+		"pointer_table_index": 25,
+		"file_index": 6586,
+		"source_file": "bin/tickers_tower/image_0001.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001_pal",
+		"pointer_table_index": 25,
+		"file_index": 6587,
+		"source_file": "bin/tickers_tower/image_0001_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000",
+		"pointer_table_index": 25,
+		"file_index": 6588,
+		"source_file": "bin/tickers_tower/image_0000.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000_pal",
+		"pointer_table_index": 25,
+		"file_index": 6589,
+		"source_file": "bin/tickers_tower/image_0000_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002",
+		"pointer_table_index": 25,
+		"file_index": 6590,
+		"source_file": "bin/tickers_tower/image_0002.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002_pal",
+		"pointer_table_index": 25,
+		"file_index": 6591,
+		"source_file": "bin/tickers_tower/image_0002_pal.bin",
+		"do_not_extract": True
+	},

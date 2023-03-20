@@ -1,0 +1,206 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1606,
+                    "y_pos": 124,
+                    "z_pos": 1208
+                },
+                {
+                    "x_pos": 1697,
+                    "y_pos": 124,
+                    "z_pos": 1134
+                },
+                {
+                    "x_pos": 1840,
+                    "y_pos": 127,
+                    "z_pos": 1204
+                },
+                {
+                    "x_pos": 1770,
+                    "y_pos": 124,
+                    "z_pos": 1360
+                },
+                {
+                    "x_pos": 1638,
+                    "y_pos": 124,
+                    "z_pos": 1362
+                },
+                {
+                    "x_pos": 1591,
+                    "y_pos": 124,
+                    "z_pos": 1294
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 0,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1503,
+                    "y_pos": 54,
+                    "z_pos": 698
+                },
+                {
+                    "x_pos": 1463,
+                    "y_pos": 54,
+                    "z_pos": 568
+                },
+                {
+                    "x_pos": 1585,
+                    "y_pos": 56,
+                    "z_pos": 528
+                },
+                {
+                    "x_pos": 1752,
+                    "y_pos": 54,
+                    "z_pos": 609
+                },
+                {
+                    "x_pos": 1779,
+                    "y_pos": 54,
+                    "z_pos": 795
+                },
+                {
+                    "x_pos": 1625,
+                    "y_pos": 54,
+                    "z_pos": 865
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 854,
+                    "y_pos": 117,
+                    "z_pos": 1351
+                },
+                {
+                    "x_pos": 674,
+                    "y_pos": 150,
+                    "z_pos": 1316
+                },
+                {
+                    "x_pos": 161,
+                    "y_pos": 161,
+                    "z_pos": 1223
+                },
+                {
+                    "x_pos": 776,
+                    "y_pos": 136,
+                    "z_pos": 1181
+                },
+                {
+                    "x_pos": 866,
+                    "y_pos": 103,
+                    "z_pos": 1175
+                },
+                {
+                    "x_pos": 894,
+                    "y_pos": 103,
+                    "z_pos": 1272
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 98,
+            "y_rot": 0,
+            "x_pos": 1735,
+            "y_pos": 125,
+            "z_pos": 1198,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 94,
+            "fence_id": 0,
+            "scale": 70,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 9,
+            "enemy_val_name": "Klump",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1613,
+            "y_pos": 55,
+            "z_pos": 622,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 45,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 98,
+            "y_rot": 0,
+            "x_pos": 1665,
+            "y_pos": 54,
+            "z_pos": 784,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 94,
+            "fence_id": 1,
+            "scale": 70,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 5,
+            "enemy_val_name": "Zinger",
+            "unk1": 123,
+            "y_rot": 0,
+            "x_pos": 661,
+            "y_pos": 203,
+            "z_pos": 1268,
+            "cutscene_model": 62,
+            "unkB": 40,
+            "max_idle_speed": 68,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 30,
+            "unk15": 0
+        }
+    ]
+}

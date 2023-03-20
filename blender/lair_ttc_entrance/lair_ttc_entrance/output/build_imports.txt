@@ -1,0 +1,357 @@
+	{
+		"name": "image_0020",
+		"pointer_table_index": 25,
+		"file_index": 6617,
+		"source_file": "bin/lair_ttc_entrance/image_0020.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0020_pal",
+		"pointer_table_index": 25,
+		"file_index": 6618,
+		"source_file": "bin/lair_ttc_entrance/image_0020_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009",
+		"pointer_table_index": 25,
+		"file_index": 6619,
+		"source_file": "bin/lair_ttc_entrance/image_0009.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009_pal",
+		"pointer_table_index": 25,
+		"file_index": 6620,
+		"source_file": "bin/lair_ttc_entrance/image_0009_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004",
+		"pointer_table_index": 25,
+		"file_index": 6621,
+		"source_file": "bin/lair_ttc_entrance/image_0004.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004_pal",
+		"pointer_table_index": 25,
+		"file_index": 6622,
+		"source_file": "bin/lair_ttc_entrance/image_0004_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007",
+		"pointer_table_index": 25,
+		"file_index": 6623,
+		"source_file": "bin/lair_ttc_entrance/image_0007.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007_pal",
+		"pointer_table_index": 25,
+		"file_index": 6624,
+		"source_file": "bin/lair_ttc_entrance/image_0007_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008",
+		"pointer_table_index": 25,
+		"file_index": 6625,
+		"source_file": "bin/lair_ttc_entrance/image_0008.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006",
+		"pointer_table_index": 25,
+		"file_index": 6626,
+		"source_file": "bin/lair_ttc_entrance/image_0006.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006_pal",
+		"pointer_table_index": 25,
+		"file_index": 6627,
+		"source_file": "bin/lair_ttc_entrance/image_0006_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005",
+		"pointer_table_index": 25,
+		"file_index": 6628,
+		"source_file": "bin/lair_ttc_entrance/image_0005.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005_pal",
+		"pointer_table_index": 25,
+		"file_index": 6629,
+		"source_file": "bin/lair_ttc_entrance/image_0005_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003",
+		"pointer_table_index": 25,
+		"file_index": 6630,
+		"source_file": "bin/lair_ttc_entrance/image_0003.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003_pal",
+		"pointer_table_index": 25,
+		"file_index": 6631,
+		"source_file": "bin/lair_ttc_entrance/image_0003_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002",
+		"pointer_table_index": 25,
+		"file_index": 6632,
+		"source_file": "bin/lair_ttc_entrance/image_0002.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002_pal",
+		"pointer_table_index": 25,
+		"file_index": 6633,
+		"source_file": "bin/lair_ttc_entrance/image_0002_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000",
+		"pointer_table_index": 25,
+		"file_index": 6634,
+		"source_file": "bin/lair_ttc_entrance/image_0000.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000_pal",
+		"pointer_table_index": 25,
+		"file_index": 6635,
+		"source_file": "bin/lair_ttc_entrance/image_0000_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010",
+		"pointer_table_index": 25,
+		"file_index": 6636,
+		"source_file": "bin/lair_ttc_entrance/image_0010.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010_pal",
+		"pointer_table_index": 25,
+		"file_index": 6637,
+		"source_file": "bin/lair_ttc_entrance/image_0010_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0015",
+		"pointer_table_index": 25,
+		"file_index": 6638,
+		"source_file": "bin/lair_ttc_entrance/image_0015.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011",
+		"pointer_table_index": 25,
+		"file_index": 6639,
+		"source_file": "bin/lair_ttc_entrance/image_0011.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011_pal",
+		"pointer_table_index": 25,
+		"file_index": 6640,
+		"source_file": "bin/lair_ttc_entrance/image_0011_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012",
+		"pointer_table_index": 25,
+		"file_index": 6641,
+		"source_file": "bin/lair_ttc_entrance/image_0012.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012_pal",
+		"pointer_table_index": 25,
+		"file_index": 6642,
+		"source_file": "bin/lair_ttc_entrance/image_0012_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001",
+		"pointer_table_index": 25,
+		"file_index": 6643,
+		"source_file": "bin/lair_ttc_entrance/image_0001.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001_pal",
+		"pointer_table_index": 25,
+		"file_index": 6644,
+		"source_file": "bin/lair_ttc_entrance/image_0001_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014",
+		"pointer_table_index": 25,
+		"file_index": 6645,
+		"source_file": "bin/lair_ttc_entrance/image_0014.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014_pal",
+		"pointer_table_index": 25,
+		"file_index": 6646,
+		"source_file": "bin/lair_ttc_entrance/image_0014_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013",
+		"pointer_table_index": 25,
+		"file_index": 6647,
+		"source_file": "bin/lair_ttc_entrance/image_0013.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013_pal",
+		"pointer_table_index": 25,
+		"file_index": 6648,
+		"source_file": "bin/lair_ttc_entrance/image_0013_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0016",
+		"pointer_table_index": 25,
+		"file_index": 6649,
+		"source_file": "bin/lair_ttc_entrance/image_0016.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0016_pal",
+		"pointer_table_index": 25,
+		"file_index": 6650,
+		"source_file": "bin/lair_ttc_entrance/image_0016_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0018",
+		"pointer_table_index": 25,
+		"file_index": 6651,
+		"source_file": "bin/lair_ttc_entrance/image_0018.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0018_pal",
+		"pointer_table_index": 25,
+		"file_index": 6652,
+		"source_file": "bin/lair_ttc_entrance/image_0018_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0017",
+		"pointer_table_index": 25,
+		"file_index": 6653,
+		"source_file": "bin/lair_ttc_entrance/image_0017.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0017_pal",
+		"pointer_table_index": 25,
+		"file_index": 6654,
+		"source_file": "bin/lair_ttc_entrance/image_0017_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0019",
+		"pointer_table_index": 25,
+		"file_index": 6655,
+		"source_file": "bin/lair_ttc_entrance/image_0019.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0019_pal",
+		"pointer_table_index": 25,
+		"file_index": 6656,
+		"source_file": "bin/lair_ttc_entrance/image_0019_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0021",
+		"pointer_table_index": 25,
+		"file_index": 6657,
+		"source_file": "bin/lair_ttc_entrance/image_0021.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0021_pal",
+		"pointer_table_index": 25,
+		"file_index": 6658,
+		"source_file": "bin/lair_ttc_entrance/image_0021_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0024",
+		"pointer_table_index": 25,
+		"file_index": 6659,
+		"source_file": "bin/lair_ttc_entrance/image_0024.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0024_pal",
+		"pointer_table_index": 25,
+		"file_index": 6660,
+		"source_file": "bin/lair_ttc_entrance/image_0024_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0023",
+		"pointer_table_index": 25,
+		"file_index": 6661,
+		"source_file": "bin/lair_ttc_entrance/image_0023.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0023_pal",
+		"pointer_table_index": 25,
+		"file_index": 6662,
+		"source_file": "bin/lair_ttc_entrance/image_0023_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0022",
+		"pointer_table_index": 25,
+		"file_index": 6663,
+		"source_file": "bin/lair_ttc_entrance/image_0022.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0022_pal",
+		"pointer_table_index": 25,
+		"file_index": 6664,
+		"source_file": "bin/lair_ttc_entrance/image_0022_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0025",
+		"pointer_table_index": 25,
+		"file_index": 6665,
+		"source_file": "bin/lair_ttc_entrance/image_0025.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0026",
+		"pointer_table_index": 25,
+		"file_index": 6666,
+		"source_file": "bin/lair_ttc_entrance/image_0026.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0026_pal",
+		"pointer_table_index": 25,
+		"file_index": 6667,
+		"source_file": "bin/lair_ttc_entrance/image_0026_pal.bin",
+		"do_not_extract": True
+	},

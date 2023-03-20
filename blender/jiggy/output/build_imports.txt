@@ -1,0 +1,7 @@
+	{
+		"name": "image_0000",
+		"pointer_table_index": 25,
+		"file_index": 2939,
+		"source_file": "bin/jiggy/image_0000.bin",
+		"do_not_extract": True
+	},

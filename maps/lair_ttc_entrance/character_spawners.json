@@ -1,0 +1,66 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 379,
+                    "y_pos": 20,
+                    "z_pos": 228
+                },
+                {
+                    "x_pos": 365,
+                    "y_pos": 20,
+                    "z_pos": 336
+                },
+                {
+                    "x_pos": 300,
+                    "y_pos": 26,
+                    "z_pos": 413
+                },
+                {
+                    "x_pos": 185,
+                    "y_pos": 20,
+                    "z_pos": 283
+                },
+                {
+                    "x_pos": 259,
+                    "y_pos": 20,
+                    "z_pos": 176
+                },
+                {
+                    "x_pos": 359,
+                    "y_pos": 20,
+                    "z_pos": 163
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 0,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 294,
+            "y_pos": 20,
+            "z_pos": 286,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 0,
+            "scale": 64,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 20,
+            "unk15": 0
+        }
+    ]
+}

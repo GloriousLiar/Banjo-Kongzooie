@@ -1,0 +1,18 @@
+{
+    "model2": [
+        {
+            "x_pos": 254.7,
+            "y_pos": 36,
+            "z_pos": 73,	
+            "scale": 0.08,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 116,
+            "behaviour_name": "Golden Banana",
+            "unk2A": "000000020001"
+        }
+    ]
+}

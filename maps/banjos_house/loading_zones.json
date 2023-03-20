@@ -1,0 +1,25 @@
+[
+    {
+        "x_pos": 119.8,
+        "y_pos": 1,
+        "z_pos": 159,
+        "radius": 25,
+        "height": 36,
+        "unkA": 1,
+        "activation_type": 0,
+        "boolD": true,
+        "unkE": 1,
+        "unkF": 144,
+        "object_type": 9,
+        "object_type_name": "Loading Zone 0x9",
+        "destination_map": 171,
+        "destination_map_name": "Spiral Mountain",
+        "destination_exit": 0,
+        "transition_type": 0,
+        "unk18": 0,
+        "cutscene_is_tied": 0,
+        "cutscene_index": 0,
+        "shift_camera_to_kong": 0,
+        "unk20": "000000000000000000000000000000000000000000000000"
+    }
+]

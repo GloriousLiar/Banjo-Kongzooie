@@ -1,0 +1,86 @@
+{
+    "model2": [
+		{
+            "x_pos": 194.9,
+            "y_pos": 253.9,
+            "z_pos": 655.92,
+            "scale": 1.0,
+            "unk10": "FFFB10BB0C400000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 47.0,
+            "behaviour": 29,
+            "behaviour_name": "Banana Coin (DK)",
+            "unk2A": "000000020001"
+        },		
+		{
+            "x_pos": 971.69,
+            "y_pos": 101.23,
+            "z_pos": 1731.19,
+            "scale": 1.0,
+            "unk10": "FFFB10BB0C400000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 47.0,
+            "behaviour": 29,
+            "behaviour_name": "Banana Coin (DK)",
+            "unk2A": "000100020001"
+        },		
+		{
+            "x_pos": 1723.91,
+            "y_pos": 111,
+            "z_pos": 1280.76,
+            "scale": 1.0,
+            "unk10": "FFFB10BB0C400000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 47.0,
+            "behaviour": 29,
+            "behaviour_name": "Banana Coin (DK)",
+            "unk2A": "000200020001"
+        },		
+		{
+            "x_pos": 1774.12,
+            "y_pos": 103.38,
+            "z_pos": 661.8,
+            "scale": 1.0,
+            "unk10": "FFFB10BB0C400000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 47.0,
+            "behaviour": 29,
+            "behaviour_name": "Banana Coin (DK)",
+            "unk2A": "000300020001"
+        },		
+		{
+            "x_pos": 1204.52,
+            "y_pos": 139.38,
+            "z_pos": 957.1,
+            "scale": 1.0,
+            "unk10": "FFFB10BB0C400000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 47.0,
+            "behaviour": 29,
+            "behaviour_name": "Banana Coin (DK)",
+            "unk2A": "000400020001"
+        }
+    ],
+    "actors": [
+        {
+            "x_pos": 1165.7,
+            "y_pos": 294,
+            "z_pos": 860,
+            "scale": 0.4,
+            "unk10": "00000000000000000000000000000000000000000000000000000000000000000800",
+            "behaviour": 15,
+            "behaviour_name": "Bridge (Castle)",
+            "unk34": "0000A4D0"
+        }
+    ]
+}

@@ -1,0 +1,758 @@
+[
+    {
+        "id": 0,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 1,
+                "x_pos": 551,
+                "y_pos": 35,
+                "z_pos": 212,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 629,
+                "y_pos": 18,
+                "z_pos": 162,
+                "speed": 1,
+                "unk9": 176
+            },
+            {
+                "unk0": 0,
+                "x_pos": 715,
+                "y_pos": 32,
+                "z_pos": 143,
+                "speed": 1,
+                "unk9": 124
+            },
+            {
+                "unk0": 0,
+                "x_pos": 766,
+                "y_pos": 28,
+                "z_pos": 71,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 850,
+                "y_pos": 36,
+                "z_pos": 37,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 797,
+                "y_pos": 12,
+                "z_pos": 53,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 737,
+                "y_pos": 24,
+                "z_pos": 73,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 687,
+                "y_pos": 10,
+                "z_pos": 51,
+                "speed": 1,
+                "unk9": 73
+            },
+            {
+                "unk0": 0,
+                "x_pos": 629,
+                "y_pos": 20,
+                "z_pos": 69,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 576,
+                "y_pos": 12,
+                "z_pos": 49,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 846,
+                "y_pos": 6,
+                "z_pos": 217,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 736,
+                "y_pos": 30,
+                "z_pos": 185,
+                "speed": 1,
+                "unk9": 58
+            },
+            {
+                "unk0": 0,
+                "x_pos": 696,
+                "y_pos": 10,
+                "z_pos": 106,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 0,
+                "x_pos": 628,
+                "y_pos": 28,
+                "z_pos": 101,
+                "speed": 1,
+                "unk9": 110
+            },
+            {
+                "unk0": 0,
+                "x_pos": 549,
+                "y_pos": 20,
+                "z_pos": 64,
+                "speed": 1,
+                "unk9": 123
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 563,
+                "y_pos": 26,
+                "z_pos": 73,
+                "speed": 1,
+                "unk9": 108
+            },
+            {
+                "unk0": 0,
+                "x_pos": 630,
+                "y_pos": 26,
+                "z_pos": 109,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 696,
+                "y_pos": 8,
+                "z_pos": 162,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 774,
+                "y_pos": 20,
+                "z_pos": 168,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 11,
+                "x_pos": 846,
+                "y_pos": 11,
+                "z_pos": 233,
+                "speed": 1,
+                "unk9": 49
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 602,
+                "y_pos": 40,
+                "z_pos": 150,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 0,
+                "x_pos": 674,
+                "y_pos": 10,
+                "z_pos": 149,
+                "speed": 1,
+                "unk9": 64
+            },
+            {
+                "unk0": 0,
+                "x_pos": 765,
+                "y_pos": 36,
+                "z_pos": 148,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 875,
+                "y_pos": 6,
+                "z_pos": 147,
+                "speed": 1,
+                "unk9": 69
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 602,
+                "y_pos": 22,
+                "z_pos": 133,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 0,
+                "x_pos": 674,
+                "y_pos": 44,
+                "z_pos": 129,
+                "speed": 1,
+                "unk9": 64
+            },
+            {
+                "unk0": 0,
+                "x_pos": 765,
+                "y_pos": 16,
+                "z_pos": 123,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 874,
+                "y_pos": 40,
+                "z_pos": 133,
+                "speed": 1,
+                "unk9": 69
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 820,
+                "y_pos": 38,
+                "z_pos": 134,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 748,
+                "y_pos": 16,
+                "z_pos": 133,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 661,
+                "y_pos": 50,
+                "z_pos": 131,
+                "speed": 1,
+                "unk9": 52
+            },
+            {
+                "unk0": 0,
+                "x_pos": 575,
+                "y_pos": 20,
+                "z_pos": 130,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 600,
+                "y_pos": 66,
+                "z_pos": 198,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 657,
+                "y_pos": 32,
+                "z_pos": 166,
+                "speed": 1,
+                "unk9": 58
+            },
+            {
+                "unk0": 0,
+                "x_pos": 643,
+                "y_pos": 30,
+                "z_pos": 123,
+                "speed": 1,
+                "unk9": 116
+            },
+            {
+                "unk0": 0,
+                "x_pos": 660,
+                "y_pos": 32,
+                "z_pos": 96,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 0,
+                "x_pos": 675,
+                "y_pos": 18,
+                "z_pos": 71,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 702,
+                "y_pos": 8,
+                "z_pos": 41,
+                "speed": 1,
+                "unk9": 64
+            },
+            {
+                "unk0": 0,
+                "x_pos": 732,
+                "y_pos": 14,
+                "z_pos": 54,
+                "speed": 1,
+                "unk9": 105
+            },
+            {
+                "unk0": 0,
+                "x_pos": 730,
+                "y_pos": 18,
+                "z_pos": 88,
+                "speed": 1,
+                "unk9": 114
+            },
+            {
+                "unk0": 0,
+                "x_pos": 701,
+                "y_pos": 20,
+                "z_pos": 104,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 685,
+                "y_pos": 16,
+                "z_pos": 81,
+                "speed": 1,
+                "unk9": 16
+            },
+            {
+                "unk0": 0,
+                "x_pos": 692,
+                "y_pos": 22,
+                "z_pos": 54,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 724,
+                "y_pos": 34,
+                "z_pos": 51,
+                "speed": 1,
+                "unk9": 110
+            },
+            {
+                "unk0": 0,
+                "x_pos": 735,
+                "y_pos": 38,
+                "z_pos": 75,
+                "speed": 1,
+                "unk9": 48
+            },
+            {
+                "unk0": 0,
+                "x_pos": 742,
+                "y_pos": 40,
+                "z_pos": 101,
+                "speed": 1,
+                "unk9": 112
+            },
+            {
+                "unk0": 0,
+                "x_pos": 724,
+                "y_pos": 26,
+                "z_pos": 131,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 691,
+                "y_pos": 48,
+                "z_pos": 171,
+                "speed": 1,
+                "unk9": 16
+            },
+            {
+                "unk0": 0,
+                "x_pos": 699,
+                "y_pos": 8,
+                "z_pos": 208,
+                "speed": 1,
+                "unk9": 108
+            },
+            {
+                "unk0": 0,
+                "x_pos": 734,
+                "y_pos": 38,
+                "z_pos": 229,
+                "speed": 1,
+                "unk9": 16
+            },
+            {
+                "unk0": 0,
+                "x_pos": 778,
+                "y_pos": 8,
+                "z_pos": 230,
+                "speed": 1,
+                "unk9": 123
+            },
+            {
+                "unk0": 0,
+                "x_pos": 805,
+                "y_pos": 20,
+                "z_pos": 205,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 0,
+                "x_pos": 826,
+                "y_pos": 16,
+                "z_pos": 173,
+                "speed": 1,
+                "unk9": 53
+            },
+            {
+                "unk0": 0,
+                "x_pos": 860,
+                "y_pos": 24,
+                "z_pos": 160,
+                "speed": 1,
+                "unk9": 65
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 842,
+                "y_pos": 20,
+                "z_pos": 214,
+                "speed": 1,
+                "unk9": 108
+            },
+            {
+                "unk0": 0,
+                "x_pos": 750,
+                "y_pos": 8,
+                "z_pos": 168,
+                "speed": 1,
+                "unk9": 58
+            },
+            {
+                "unk0": 0,
+                "x_pos": 715,
+                "y_pos": 40,
+                "z_pos": 243,
+                "speed": 1,
+                "unk9": 116
+            },
+            {
+                "unk0": 0,
+                "x_pos": 661,
+                "y_pos": 52,
+                "z_pos": 213,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 0,
+                "x_pos": 750,
+                "y_pos": 18,
+                "z_pos": 100,
+                "speed": 1,
+                "unk9": 54
+            },
+            {
+                "unk0": 0,
+                "x_pos": 754,
+                "y_pos": 22,
+                "z_pos": 187,
+                "speed": 1,
+                "unk9": 65
+            },
+            {
+                "unk0": 0,
+                "x_pos": 664,
+                "y_pos": 32,
+                "z_pos": 172,
+                "speed": 1,
+                "unk9": 105
+            },
+            {
+                "unk0": 0,
+                "x_pos": 700,
+                "y_pos": 18,
+                "z_pos": 128,
+                "speed": 1,
+                "unk9": 114
+            },
+            {
+                "unk0": 0,
+                "x_pos": 664,
+                "y_pos": 12,
+                "z_pos": 124,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 615,
+                "y_pos": 16,
+                "z_pos": 146,
+                "speed": 1,
+                "unk9": 58
+            },
+            {
+                "unk0": 0,
+                "x_pos": 655,
+                "y_pos": 32,
+                "z_pos": 81,
+                "speed": 1,
+                "unk9": 116
+            },
+            {
+                "unk0": 0,
+                "x_pos": 681,
+                "y_pos": 6,
+                "z_pos": 94,
+                "speed": 1,
+                "unk9": 108
+            },
+            {
+                "unk0": 0,
+                "x_pos": 647,
+                "y_pos": 38,
+                "z_pos": 159,
+                "speed": 1,
+                "unk9": 124
+            },
+            {
+                "unk0": 0,
+                "x_pos": 543,
+                "y_pos": 0,
+                "z_pos": 191,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 572,
+                "y_pos": 14,
+                "z_pos": 134,
+                "speed": 1,
+                "unk9": 108
+            },
+            {
+                "unk0": 0,
+                "x_pos": 649,
+                "y_pos": 34,
+                "z_pos": 191,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 723,
+                "y_pos": 28,
+                "z_pos": 202,
+                "speed": 1,
+                "unk9": 105
+            },
+            {
+                "unk0": 0,
+                "x_pos": 746,
+                "y_pos": 26,
+                "z_pos": 170,
+                "speed": 1,
+                "unk9": 224
+            },
+            {
+                "unk0": 0,
+                "x_pos": 718,
+                "y_pos": 46,
+                "z_pos": 153,
+                "speed": 1,
+                "unk9": 54
+            },
+            {
+                "unk0": 0,
+                "x_pos": 691,
+                "y_pos": 60,
+                "z_pos": 151,
+                "speed": 1,
+                "unk9": 65
+            },
+            {
+                "unk0": 0,
+                "x_pos": 692,
+                "y_pos": 74,
+                "z_pos": 179,
+                "speed": 1,
+                "unk9": 99
+            },
+            {
+                "unk0": 0,
+                "x_pos": 708,
+                "y_pos": 48,
+                "z_pos": 193,
+                "speed": 1,
+                "unk9": 108
+            },
+            {
+                "unk0": 0,
+                "x_pos": 730,
+                "y_pos": 46,
+                "z_pos": 181,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 727,
+                "y_pos": 48,
+                "z_pos": 162,
+                "speed": 1,
+                "unk9": 58
+            },
+            {
+                "unk0": 0,
+                "x_pos": 705,
+                "y_pos": 62,
+                "z_pos": 150,
+                "speed": 1,
+                "unk9": 105
+            },
+            {
+                "unk0": 0,
+                "x_pos": 690,
+                "y_pos": 64,
+                "z_pos": 166,
+                "speed": 1,
+                "unk9": 111
+            },
+            {
+                "unk0": 0,
+                "x_pos": 704,
+                "y_pos": 36,
+                "z_pos": 184,
+                "speed": 1,
+                "unk9": 124
+            },
+            {
+                "unk0": 0,
+                "x_pos": 717,
+                "y_pos": 30,
+                "z_pos": 179,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 749,
+                "y_pos": 54,
+                "z_pos": 144,
+                "speed": 1,
+                "unk9": 105
+            },
+            {
+                "unk0": 0,
+                "x_pos": 769,
+                "y_pos": 26,
+                "z_pos": 101,
+                "speed": 1,
+                "unk9": 114
+            },
+            {
+                "unk0": 0,
+                "x_pos": 808,
+                "y_pos": 28,
+                "z_pos": 104,
+                "speed": 1,
+                "unk9": 32
+            },
+            {
+                "unk0": 0,
+                "x_pos": 827,
+                "y_pos": 34,
+                "z_pos": 164,
+                "speed": 1,
+                "unk9": 128
+            },
+            {
+                "unk0": 0,
+                "x_pos": 892,
+                "y_pos": 20,
+                "z_pos": 155,
+                "speed": 1,
+                "unk9": 124
+            }
+        ]
+    }
+]

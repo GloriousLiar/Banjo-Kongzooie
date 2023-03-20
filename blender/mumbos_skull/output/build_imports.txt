@@ -1,0 +1,175 @@
+	{
+		"name": "image_0001",
+		"pointer_table_index": 25,
+		"file_index": 6592,
+		"source_file": "bin/mumbos_skull/image_0001.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001_pal",
+		"pointer_table_index": 25,
+		"file_index": 6593,
+		"source_file": "bin/mumbos_skull/image_0001_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002",
+		"pointer_table_index": 25,
+		"file_index": 6594,
+		"source_file": "bin/mumbos_skull/image_0002.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004",
+		"pointer_table_index": 25,
+		"file_index": 6595,
+		"source_file": "bin/mumbos_skull/image_0004.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004_pal",
+		"pointer_table_index": 25,
+		"file_index": 6596,
+		"source_file": "bin/mumbos_skull/image_0004_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008",
+		"pointer_table_index": 25,
+		"file_index": 6597,
+		"source_file": "bin/mumbos_skull/image_0008.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008_pal",
+		"pointer_table_index": 25,
+		"file_index": 6598,
+		"source_file": "bin/mumbos_skull/image_0008_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0024",
+		"pointer_table_index": 25,
+		"file_index": 6599,
+		"source_file": "bin/mumbos_skull/image_0024.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0024_pal",
+		"pointer_table_index": 25,
+		"file_index": 6600,
+		"source_file": "bin/mumbos_skull/image_0024_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007",
+		"pointer_table_index": 25,
+		"file_index": 6601,
+		"source_file": "bin/mumbos_skull/image_0007.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005",
+		"pointer_table_index": 25,
+		"file_index": 6602,
+		"source_file": "bin/mumbos_skull/image_0005.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006",
+		"pointer_table_index": 25,
+		"file_index": 6603,
+		"source_file": "bin/mumbos_skull/image_0006.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000",
+		"pointer_table_index": 25,
+		"file_index": 6604,
+		"source_file": "bin/mumbos_skull/image_0000.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000_pal",
+		"pointer_table_index": 25,
+		"file_index": 6605,
+		"source_file": "bin/mumbos_skull/image_0000_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010",
+		"pointer_table_index": 25,
+		"file_index": 6606,
+		"source_file": "bin/mumbos_skull/image_0010.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010_pal",
+		"pointer_table_index": 25,
+		"file_index": 6607,
+		"source_file": "bin/mumbos_skull/image_0010_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003",
+		"pointer_table_index": 25,
+		"file_index": 6608,
+		"source_file": "bin/mumbos_skull/image_0003.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012",
+		"pointer_table_index": 25,
+		"file_index": 6609,
+		"source_file": "bin/mumbos_skull/image_0012.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012_pal",
+		"pointer_table_index": 25,
+		"file_index": 6610,
+		"source_file": "bin/mumbos_skull/image_0012_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014",
+		"pointer_table_index": 25,
+		"file_index": 6611,
+		"source_file": "bin/mumbos_skull/image_0014.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014_pal",
+		"pointer_table_index": 25,
+		"file_index": 6612,
+		"source_file": "bin/mumbos_skull/image_0014_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013",
+		"pointer_table_index": 25,
+		"file_index": 6613,
+		"source_file": "bin/mumbos_skull/image_0013.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013_pal",
+		"pointer_table_index": 25,
+		"file_index": 6614,
+		"source_file": "bin/mumbos_skull/image_0013_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011",
+		"pointer_table_index": 25,
+		"file_index": 6615,
+		"source_file": "bin/mumbos_skull/image_0011.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011_pal",
+		"pointer_table_index": 25,
+		"file_index": 6616,
+		"source_file": "bin/mumbos_skull/image_0011_pal.bin",
+		"do_not_extract": True
+	},

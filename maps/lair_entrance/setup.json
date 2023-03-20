@@ -1,0 +1,82 @@
+{
+	"model2": [
+        {
+            "x_pos": 226.74,
+            "y_pos": 118,
+            "z_pos": 772.9,
+            "scale": 0.08,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 116,
+            "behaviour_name": "Golden Banana",
+            "unk2A": "000000020001"
+        },
+        {
+            "x_pos": 196.8,
+            "y_pos": 275,
+            "z_pos": 70.5,
+            "scale": 1.5,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 12,
+            "behaviour_name": "Flame",
+            "unk2A": "000100020001"
+        },
+        {
+            "x_pos": 68,
+            "y_pos": 275,
+            "z_pos": 193.96,
+            "scale": 1.5,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 12,
+            "behaviour_name": "Flame",
+            "unk2A": "000200020001"
+        },
+        {
+            "x_pos": 29,
+            "y_pos": 218,
+            "z_pos": 24,
+            "scale": 1.667,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 320.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 118,
+            "behaviour_name": "Metal Gate",
+            "unk2A": "000300020001"
+        }
+	],
+    "actors": [
+        {
+            "x_pos": 1413.5,
+            "y_pos": 60,
+            "z_pos": 883.4,
+            "scale": 1,
+            "unk10": "000000000000000000000000000000000000000000000000000000000000000009DE",
+            "behaviour": 122,
+            "behaviour_name": "B. Locker",
+            "unk34": "0001C950"
+        },
+        {
+            "x_pos": 603.4,
+            "y_pos": 45,
+            "z_pos": 633.3,
+            "scale": 1,
+            "unk10": "00000000000000000000000000000000000000000000000000000000000000000000",
+            "behaviour": 120,
+            "behaviour_name": "Tag Barrel",
+            "unk34": "0001C950"
+        }
+    ]
+}

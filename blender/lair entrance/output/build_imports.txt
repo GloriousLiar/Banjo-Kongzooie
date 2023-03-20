@@ -1,0 +1,777 @@
+	{
+		"name": "image_0066",
+		"pointer_table_index": 25,
+		"file_index": 6147,
+		"source_file": "bin/lair_entrance/image_0066.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0066_pal",
+		"pointer_table_index": 25,
+		"file_index": 6148,
+		"source_file": "bin/lair_entrance/image_0066_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0052",
+		"pointer_table_index": 25,
+		"file_index": 6149,
+		"source_file": "bin/lair_entrance/image_0052.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0052_pal",
+		"pointer_table_index": 25,
+		"file_index": 6150,
+		"source_file": "bin/lair_entrance/image_0052_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0070",
+		"pointer_table_index": 25,
+		"file_index": 6151,
+		"source_file": "bin/lair_entrance/image_0070.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0067",
+		"pointer_table_index": 25,
+		"file_index": 6152,
+		"source_file": "bin/lair_entrance/image_0067.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0069",
+		"pointer_table_index": 25,
+		"file_index": 6153,
+		"source_file": "bin/lair_entrance/image_0069.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0068",
+		"pointer_table_index": 25,
+		"file_index": 6154,
+		"source_file": "bin/lair_entrance/image_0068.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0051",
+		"pointer_table_index": 25,
+		"file_index": 6155,
+		"source_file": "bin/lair_entrance/image_0051.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0050",
+		"pointer_table_index": 25,
+		"file_index": 6156,
+		"source_file": "bin/lair_entrance/image_0050.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0049",
+		"pointer_table_index": 25,
+		"file_index": 6157,
+		"source_file": "bin/lair_entrance/image_0049.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0048",
+		"pointer_table_index": 25,
+		"file_index": 6158,
+		"source_file": "bin/lair_entrance/image_0048.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0044",
+		"pointer_table_index": 25,
+		"file_index": 6159,
+		"source_file": "bin/lair_entrance/image_0044.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0043",
+		"pointer_table_index": 25,
+		"file_index": 6160,
+		"source_file": "bin/lair_entrance/image_0043.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0036",
+		"pointer_table_index": 25,
+		"file_index": 6161,
+		"source_file": "bin/lair_entrance/image_0036.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0037",
+		"pointer_table_index": 25,
+		"file_index": 6162,
+		"source_file": "bin/lair_entrance/image_0037.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0042",
+		"pointer_table_index": 25,
+		"file_index": 6163,
+		"source_file": "bin/lair_entrance/image_0042.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0038",
+		"pointer_table_index": 25,
+		"file_index": 6164,
+		"source_file": "bin/lair_entrance/image_0038.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0039",
+		"pointer_table_index": 25,
+		"file_index": 6165,
+		"source_file": "bin/lair_entrance/image_0039.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0040",
+		"pointer_table_index": 25,
+		"file_index": 6166,
+		"source_file": "bin/lair_entrance/image_0040.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0047",
+		"pointer_table_index": 25,
+		"file_index": 6167,
+		"source_file": "bin/lair_entrance/image_0047.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0046",
+		"pointer_table_index": 25,
+		"file_index": 6168,
+		"source_file": "bin/lair_entrance/image_0046.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0041",
+		"pointer_table_index": 25,
+		"file_index": 6169,
+		"source_file": "bin/lair_entrance/image_0041.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0045",
+		"pointer_table_index": 25,
+		"file_index": 6170,
+		"source_file": "bin/lair_entrance/image_0045.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0063",
+		"pointer_table_index": 25,
+		"file_index": 6171,
+		"source_file": "bin/lair_entrance/image_0063.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0063_pal",
+		"pointer_table_index": 25,
+		"file_index": 6172,
+		"source_file": "bin/lair_entrance/image_0063_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000",
+		"pointer_table_index": 25,
+		"file_index": 6173,
+		"source_file": "bin/lair_entrance/image_0000.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000_pal",
+		"pointer_table_index": 25,
+		"file_index": 6174,
+		"source_file": "bin/lair_entrance/image_0000_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0062",
+		"pointer_table_index": 25,
+		"file_index": 6175,
+		"source_file": "bin/lair_entrance/image_0062.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0062_pal",
+		"pointer_table_index": 25,
+		"file_index": 6176,
+		"source_file": "bin/lair_entrance/image_0062_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003",
+		"pointer_table_index": 25,
+		"file_index": 6177,
+		"source_file": "bin/lair_entrance/image_0003.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003_pal",
+		"pointer_table_index": 25,
+		"file_index": 6178,
+		"source_file": "bin/lair_entrance/image_0003_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0026",
+		"pointer_table_index": 25,
+		"file_index": 6179,
+		"source_file": "bin/lair_entrance/image_0026.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0026_pal",
+		"pointer_table_index": 25,
+		"file_index": 6180,
+		"source_file": "bin/lair_entrance/image_0026_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009",
+		"pointer_table_index": 25,
+		"file_index": 6181,
+		"source_file": "bin/lair_entrance/image_0009.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009_pal",
+		"pointer_table_index": 25,
+		"file_index": 6182,
+		"source_file": "bin/lair_entrance/image_0009_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0025",
+		"pointer_table_index": 25,
+		"file_index": 6183,
+		"source_file": "bin/lair_entrance/image_0025.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0025_pal",
+		"pointer_table_index": 25,
+		"file_index": 6184,
+		"source_file": "bin/lair_entrance/image_0025_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0034",
+		"pointer_table_index": 25,
+		"file_index": 6185,
+		"source_file": "bin/lair_entrance/image_0034.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0034_pal",
+		"pointer_table_index": 25,
+		"file_index": 6186,
+		"source_file": "bin/lair_entrance/image_0034_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010",
+		"pointer_table_index": 25,
+		"file_index": 6187,
+		"source_file": "bin/lair_entrance/image_0010.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010_pal",
+		"pointer_table_index": 25,
+		"file_index": 6188,
+		"source_file": "bin/lair_entrance/image_0010_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0035",
+		"pointer_table_index": 25,
+		"file_index": 6189,
+		"source_file": "bin/lair_entrance/image_0035.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0035_pal",
+		"pointer_table_index": 25,
+		"file_index": 6190,
+		"source_file": "bin/lair_entrance/image_0035_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0054",
+		"pointer_table_index": 25,
+		"file_index": 6191,
+		"source_file": "bin/lair_entrance/image_0054.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0053",
+		"pointer_table_index": 25,
+		"file_index": 6192,
+		"source_file": "bin/lair_entrance/image_0053.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0023",
+		"pointer_table_index": 25,
+		"file_index": 6193,
+		"source_file": "bin/lair_entrance/image_0023.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0023_pal",
+		"pointer_table_index": 25,
+		"file_index": 6194,
+		"source_file": "bin/lair_entrance/image_0023_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0024",
+		"pointer_table_index": 25,
+		"file_index": 6195,
+		"source_file": "bin/lair_entrance/image_0024.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012",
+		"pointer_table_index": 25,
+		"file_index": 6196,
+		"source_file": "bin/lair_entrance/image_0012.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012_pal",
+		"pointer_table_index": 25,
+		"file_index": 6197,
+		"source_file": "bin/lair_entrance/image_0012_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0015",
+		"pointer_table_index": 25,
+		"file_index": 6198,
+		"source_file": "bin/lair_entrance/image_0015.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0015_pal",
+		"pointer_table_index": 25,
+		"file_index": 6199,
+		"source_file": "bin/lair_entrance/image_0015_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013",
+		"pointer_table_index": 25,
+		"file_index": 6200,
+		"source_file": "bin/lair_entrance/image_0013.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013_pal",
+		"pointer_table_index": 25,
+		"file_index": 6201,
+		"source_file": "bin/lair_entrance/image_0013_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0018",
+		"pointer_table_index": 25,
+		"file_index": 6202,
+		"source_file": "bin/lair_entrance/image_0018.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0020",
+		"pointer_table_index": 25,
+		"file_index": 6203,
+		"source_file": "bin/lair_entrance/image_0020.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0019",
+		"pointer_table_index": 25,
+		"file_index": 6204,
+		"source_file": "bin/lair_entrance/image_0019.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0021",
+		"pointer_table_index": 25,
+		"file_index": 6205,
+		"source_file": "bin/lair_entrance/image_0021.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0028",
+		"pointer_table_index": 25,
+		"file_index": 6206,
+		"source_file": "bin/lair_entrance/image_0028.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0022",
+		"pointer_table_index": 25,
+		"file_index": 6207,
+		"source_file": "bin/lair_entrance/image_0022.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0027",
+		"pointer_table_index": 25,
+		"file_index": 6208,
+		"source_file": "bin/lair_entrance/image_0027.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0027_pal",
+		"pointer_table_index": 25,
+		"file_index": 6209,
+		"source_file": "bin/lair_entrance/image_0027_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0058",
+		"pointer_table_index": 25,
+		"file_index": 6210,
+		"source_file": "bin/lair_entrance/image_0058.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0058_pal",
+		"pointer_table_index": 25,
+		"file_index": 6211,
+		"source_file": "bin/lair_entrance/image_0058_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0059",
+		"pointer_table_index": 25,
+		"file_index": 6212,
+		"source_file": "bin/lair_entrance/image_0059.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0059_pal",
+		"pointer_table_index": 25,
+		"file_index": 6213,
+		"source_file": "bin/lair_entrance/image_0059_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0056",
+		"pointer_table_index": 25,
+		"file_index": 6214,
+		"source_file": "bin/lair_entrance/image_0056.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0056_pal",
+		"pointer_table_index": 25,
+		"file_index": 6215,
+		"source_file": "bin/lair_entrance/image_0056_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001",
+		"pointer_table_index": 25,
+		"file_index": 6216,
+		"source_file": "bin/lair_entrance/image_0001.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001_pal",
+		"pointer_table_index": 25,
+		"file_index": 6217,
+		"source_file": "bin/lair_entrance/image_0001_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005",
+		"pointer_table_index": 25,
+		"file_index": 6218,
+		"source_file": "bin/lair_entrance/image_0005.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005_pal",
+		"pointer_table_index": 25,
+		"file_index": 6219,
+		"source_file": "bin/lair_entrance/image_0005_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004",
+		"pointer_table_index": 25,
+		"file_index": 6220,
+		"source_file": "bin/lair_entrance/image_0004.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004_pal",
+		"pointer_table_index": 25,
+		"file_index": 6221,
+		"source_file": "bin/lair_entrance/image_0004_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006",
+		"pointer_table_index": 25,
+		"file_index": 6222,
+		"source_file": "bin/lair_entrance/image_0006.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006_pal",
+		"pointer_table_index": 25,
+		"file_index": 6223,
+		"source_file": "bin/lair_entrance/image_0006_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0064",
+		"pointer_table_index": 25,
+		"file_index": 6224,
+		"source_file": "bin/lair_entrance/image_0064.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0017",
+		"pointer_table_index": 25,
+		"file_index": 6225,
+		"source_file": "bin/lair_entrance/image_0017.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0017_pal",
+		"pointer_table_index": 25,
+		"file_index": 6226,
+		"source_file": "bin/lair_entrance/image_0017_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0065",
+		"pointer_table_index": 25,
+		"file_index": 6227,
+		"source_file": "bin/lair_entrance/image_0065.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0065_pal",
+		"pointer_table_index": 25,
+		"file_index": 6228,
+		"source_file": "bin/lair_entrance/image_0065_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0060",
+		"pointer_table_index": 25,
+		"file_index": 6229,
+		"source_file": "bin/lair_entrance/image_0060.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0032",
+		"pointer_table_index": 25,
+		"file_index": 6230,
+		"source_file": "bin/lair_entrance/image_0032.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0032_pal",
+		"pointer_table_index": 25,
+		"file_index": 6231,
+		"source_file": "bin/lair_entrance/image_0032_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0031",
+		"pointer_table_index": 25,
+		"file_index": 6232,
+		"source_file": "bin/lair_entrance/image_0031.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0031_pal",
+		"pointer_table_index": 25,
+		"file_index": 6233,
+		"source_file": "bin/lair_entrance/image_0031_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0033",
+		"pointer_table_index": 25,
+		"file_index": 6234,
+		"source_file": "bin/lair_entrance/image_0033.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0033_pal",
+		"pointer_table_index": 25,
+		"file_index": 6235,
+		"source_file": "bin/lair_entrance/image_0033_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014",
+		"pointer_table_index": 25,
+		"file_index": 6236,
+		"source_file": "bin/lair_entrance/image_0014.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014_pal",
+		"pointer_table_index": 25,
+		"file_index": 6237,
+		"source_file": "bin/lair_entrance/image_0014_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011",
+		"pointer_table_index": 25,
+		"file_index": 6238,
+		"source_file": "bin/lair_entrance/image_0011.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011_pal",
+		"pointer_table_index": 25,
+		"file_index": 6239,
+		"source_file": "bin/lair_entrance/image_0011_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0016",
+		"pointer_table_index": 25,
+		"file_index": 6240,
+		"source_file": "bin/lair_entrance/image_0016.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0016_pal",
+		"pointer_table_index": 25,
+		"file_index": 6241,
+		"source_file": "bin/lair_entrance/image_0016_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0061",
+		"pointer_table_index": 25,
+		"file_index": 6242,
+		"source_file": "bin/lair_entrance/image_0061.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0061_pal",
+		"pointer_table_index": 25,
+		"file_index": 6243,
+		"source_file": "bin/lair_entrance/image_0061_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007",
+		"pointer_table_index": 25,
+		"file_index": 6244,
+		"source_file": "bin/lair_entrance/image_0007.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007_pal",
+		"pointer_table_index": 25,
+		"file_index": 6245,
+		"source_file": "bin/lair_entrance/image_0007_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008",
+		"pointer_table_index": 25,
+		"file_index": 6246,
+		"source_file": "bin/lair_entrance/image_0008.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008_pal",
+		"pointer_table_index": 25,
+		"file_index": 6247,
+		"source_file": "bin/lair_entrance/image_0008_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0055",
+		"pointer_table_index": 25,
+		"file_index": 6248,
+		"source_file": "bin/lair_entrance/image_0055.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0055_pal",
+		"pointer_table_index": 25,
+		"file_index": 6249,
+		"source_file": "bin/lair_entrance/image_0055_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0029",
+		"pointer_table_index": 25,
+		"file_index": 6250,
+		"source_file": "bin/lair_entrance/image_0029.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0029_pal",
+		"pointer_table_index": 25,
+		"file_index": 6251,
+		"source_file": "bin/lair_entrance/image_0029_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002",
+		"pointer_table_index": 25,
+		"file_index": 6252,
+		"source_file": "bin/lair_entrance/image_0002.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002_pal",
+		"pointer_table_index": 25,
+		"file_index": 6253,
+		"source_file": "bin/lair_entrance/image_0002_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0030",
+		"pointer_table_index": 25,
+		"file_index": 6254,
+		"source_file": "bin/lair_entrance/image_0030.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0030_pal",
+		"pointer_table_index": 25,
+		"file_index": 6255,
+		"source_file": "bin/lair_entrance/image_0030_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0057",
+		"pointer_table_index": 25,
+		"file_index": 6256,
+		"source_file": "bin/lair_entrance/image_0057.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0057_pal",
+		"pointer_table_index": 25,
+		"file_index": 6257,
+		"source_file": "bin/lair_entrance/image_0057_pal.bin",
+		"do_not_extract": True
+	},

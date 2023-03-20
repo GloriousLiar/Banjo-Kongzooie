@@ -1,0 +1,175 @@
+	{
+		"name": "image_0007",
+		"pointer_table_index": 25,
+		"file_index": 6854,
+		"source_file": "bin/lair_pipe_room/image_0007.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007_pal",
+		"pointer_table_index": 25,
+		"file_index": 6855,
+		"source_file": "bin/lair_pipe_room/image_0007_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009",
+		"pointer_table_index": 25,
+		"file_index": 6856,
+		"source_file": "bin/lair_pipe_room/image_0009.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009_pal",
+		"pointer_table_index": 25,
+		"file_index": 6857,
+		"source_file": "bin/lair_pipe_room/image_0009_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006",
+		"pointer_table_index": 25,
+		"file_index": 6858,
+		"source_file": "bin/lair_pipe_room/image_0006.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006_pal",
+		"pointer_table_index": 25,
+		"file_index": 6859,
+		"source_file": "bin/lair_pipe_room/image_0006_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005",
+		"pointer_table_index": 25,
+		"file_index": 6860,
+		"source_file": "bin/lair_pipe_room/image_0005.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005_pal",
+		"pointer_table_index": 25,
+		"file_index": 6861,
+		"source_file": "bin/lair_pipe_room/image_0005_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004",
+		"pointer_table_index": 25,
+		"file_index": 6862,
+		"source_file": "bin/lair_pipe_room/image_0004.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001",
+		"pointer_table_index": 25,
+		"file_index": 6863,
+		"source_file": "bin/lair_pipe_room/image_0001.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001_pal",
+		"pointer_table_index": 25,
+		"file_index": 6864,
+		"source_file": "bin/lair_pipe_room/image_0001_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008",
+		"pointer_table_index": 25,
+		"file_index": 6865,
+		"source_file": "bin/lair_pipe_room/image_0008.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008_pal",
+		"pointer_table_index": 25,
+		"file_index": 6866,
+		"source_file": "bin/lair_pipe_room/image_0008_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000",
+		"pointer_table_index": 25,
+		"file_index": 6867,
+		"source_file": "bin/lair_pipe_room/image_0000.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010",
+		"pointer_table_index": 25,
+		"file_index": 6868,
+		"source_file": "bin/lair_pipe_room/image_0010.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003",
+		"pointer_table_index": 25,
+		"file_index": 6869,
+		"source_file": "bin/lair_pipe_room/image_0003.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003_pal",
+		"pointer_table_index": 25,
+		"file_index": 6870,
+		"source_file": "bin/lair_pipe_room/image_0003_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013",
+		"pointer_table_index": 25,
+		"file_index": 6871,
+		"source_file": "bin/lair_pipe_room/image_0013.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012",
+		"pointer_table_index": 25,
+		"file_index": 6872,
+		"source_file": "bin/lair_pipe_room/image_0012.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012_pal",
+		"pointer_table_index": 25,
+		"file_index": 6873,
+		"source_file": "bin/lair_pipe_room/image_0012_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011",
+		"pointer_table_index": 25,
+		"file_index": 6874,
+		"source_file": "bin/lair_pipe_room/image_0011.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011_pal",
+		"pointer_table_index": 25,
+		"file_index": 6875,
+		"source_file": "bin/lair_pipe_room/image_0011_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002",
+		"pointer_table_index": 25,
+		"file_index": 6876,
+		"source_file": "bin/lair_pipe_room/image_0002.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002_pal",
+		"pointer_table_index": 25,
+		"file_index": 6877,
+		"source_file": "bin/lair_pipe_room/image_0002_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014",
+		"pointer_table_index": 25,
+		"file_index": 6878,
+		"source_file": "bin/lair_pipe_room/image_0014.bin",
+		"do_not_extract": True
+	},

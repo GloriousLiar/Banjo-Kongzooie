@@ -1,0 +1,86 @@
+{
+    "model2": [
+		{
+            "x_pos": 88.1,
+            "y_pos": 56.1,
+            "z_pos": 223.8,
+            "scale": 1.0,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 30,
+            "behaviour_name": "CB Single (Lanky)",
+            "unk2A": "000000020001"
+        },
+		{
+            "x_pos": 47.2,
+            "y_pos": 43.4,
+            "z_pos": 290.2,
+            "scale": 1.0,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 30,
+            "behaviour_name": "CB Single (Lanky)",
+            "unk2A": "000100020001"
+        },
+		{
+            "x_pos": 43.4,
+            "y_pos": 137,
+            "z_pos": 346.4,
+            "scale": 2,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 15.0,
+            "angle20": -22.0,
+            "unk24": 0.0,
+            "behaviour": 93,
+            "behaviour_name": "Light Green Platform",
+            "unk2A": "000200020001"
+        },
+		{
+            "x_pos": 41.5,
+            "y_pos": 137,
+            "z_pos": 253.3,
+            "scale": 2,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 60.0,
+            "angle20": -22.0,
+            "unk24": 0.0,
+            "behaviour": 93,
+            "behaviour_name": "Light Green Platform",
+            "unk2A": "000300020001"
+        },
+		{
+            "x_pos": 115.4,
+            "y_pos": 137,
+            "z_pos": 191.2,
+            "scale": 2,
+            "unk10": "0000000000000000",
+            "angle18": 0.0,
+            "angle1C": 15.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 93,
+            "behaviour_name": "Light Green Platform",
+            "unk2A": "000400020001"
+        }		
+	],
+	"actors": [
+        {
+            "x_pos": 156.2,
+            "y_pos": 6,
+            "z_pos": 293.8,
+            "scale": 1.0,
+            "unk10": "00000000000000000000000000000000000000000000000000000000000000000000",
+            "behaviour": 121,
+            "behaviour_name": "Tag Barrel",
+            "unk34": "0001C950"
+        }
+    ]
+}

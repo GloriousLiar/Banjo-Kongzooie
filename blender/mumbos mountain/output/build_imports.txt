@@ -1,0 +1,672 @@
+	{
+		"name": "image_0005",
+		"pointer_table_index": 25,
+		"file_index": 6258,
+		"source_file": "bin/mumbosmountain/image_0005.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0005_pal",
+		"pointer_table_index": 25,
+		"file_index": 6259,
+		"source_file": "bin/mumbosmountain/image_0005_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006",
+		"pointer_table_index": 25,
+		"file_index": 6260,
+		"source_file": "bin/mumbosmountain/image_0006.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0006_pal",
+		"pointer_table_index": 25,
+		"file_index": 6261,
+		"source_file": "bin/mumbosmountain/image_0006_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007",
+		"pointer_table_index": 25,
+		"file_index": 6262,
+		"source_file": "bin/mumbosmountain/image_0007.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0007_pal",
+		"pointer_table_index": 25,
+		"file_index": 6263,
+		"source_file": "bin/mumbosmountain/image_0007_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004",
+		"pointer_table_index": 25,
+		"file_index": 6264,
+		"source_file": "bin/mumbosmountain/image_0004.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0004_pal",
+		"pointer_table_index": 25,
+		"file_index": 6265,
+		"source_file": "bin/mumbosmountain/image_0004_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0025",
+		"pointer_table_index": 25,
+		"file_index": 6266,
+		"source_file": "bin/mumbosmountain/image_0025.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0025_pal",
+		"pointer_table_index": 25,
+		"file_index": 6267,
+		"source_file": "bin/mumbosmountain/image_0025_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0026",
+		"pointer_table_index": 25,
+		"file_index": 6268,
+		"source_file": "bin/mumbosmountain/image_0026.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0026_pal",
+		"pointer_table_index": 25,
+		"file_index": 6269,
+		"source_file": "bin/mumbosmountain/image_0026_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0019",
+		"pointer_table_index": 25,
+		"file_index": 6270,
+		"source_file": "bin/mumbosmountain/image_0019.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0019_pal",
+		"pointer_table_index": 25,
+		"file_index": 6271,
+		"source_file": "bin/mumbosmountain/image_0019_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0050",
+		"pointer_table_index": 25,
+		"file_index": 6272,
+		"source_file": "bin/mumbosmountain/image_0050.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0050_pal",
+		"pointer_table_index": 25,
+		"file_index": 6273,
+		"source_file": "bin/mumbosmountain/image_0050_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0049",
+		"pointer_table_index": 25,
+		"file_index": 6274,
+		"source_file": "bin/mumbosmountain/image_0049.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0049_pal",
+		"pointer_table_index": 25,
+		"file_index": 6275,
+		"source_file": "bin/mumbosmountain/image_0049_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0053",
+		"pointer_table_index": 25,
+		"file_index": 6276,
+		"source_file": "bin/mumbosmountain/image_0053.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0053_pal",
+		"pointer_table_index": 25,
+		"file_index": 6277,
+		"source_file": "bin/mumbosmountain/image_0053_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0052",
+		"pointer_table_index": 25,
+		"file_index": 6278,
+		"source_file": "bin/mumbosmountain/image_0052.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0052_pal",
+		"pointer_table_index": 25,
+		"file_index": 6279,
+		"source_file": "bin/mumbosmountain/image_0052_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000",
+		"pointer_table_index": 25,
+		"file_index": 6280,
+		"source_file": "bin/mumbosmountain/image_0000.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0000_pal",
+		"pointer_table_index": 25,
+		"file_index": 6281,
+		"source_file": "bin/mumbosmountain/image_0000_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0015",
+		"pointer_table_index": 25,
+		"file_index": 6282,
+		"source_file": "bin/mumbosmountain/image_0015.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0027",
+		"pointer_table_index": 25,
+		"file_index": 6283,
+		"source_file": "bin/mumbosmountain/image_0027.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0027_pal",
+		"pointer_table_index": 25,
+		"file_index": 6284,
+		"source_file": "bin/mumbosmountain/image_0027_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0028",
+		"pointer_table_index": 25,
+		"file_index": 6285,
+		"source_file": "bin/mumbosmountain/image_0028.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0028_pal",
+		"pointer_table_index": 25,
+		"file_index": 6286,
+		"source_file": "bin/mumbosmountain/image_0028_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0022",
+		"pointer_table_index": 25,
+		"file_index": 6287,
+		"source_file": "bin/mumbosmountain/image_0022.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0022_pal",
+		"pointer_table_index": 25,
+		"file_index": 6288,
+		"source_file": "bin/mumbosmountain/image_0022_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014",
+		"pointer_table_index": 25,
+		"file_index": 6289,
+		"source_file": "bin/mumbosmountain/image_0014.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0014_pal",
+		"pointer_table_index": 25,
+		"file_index": 6290,
+		"source_file": "bin/mumbosmountain/image_0014_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0021",
+		"pointer_table_index": 25,
+		"file_index": 6291,
+		"source_file": "bin/mumbosmountain/image_0021.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0021_pal",
+		"pointer_table_index": 25,
+		"file_index": 6292,
+		"source_file": "bin/mumbosmountain/image_0021_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0029",
+		"pointer_table_index": 25,
+		"file_index": 6293,
+		"source_file": "bin/mumbosmountain/image_0029.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0029_pal",
+		"pointer_table_index": 25,
+		"file_index": 6294,
+		"source_file": "bin/mumbosmountain/image_0029_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0051",
+		"pointer_table_index": 25,
+		"file_index": 6295,
+		"source_file": "bin/mumbosmountain/image_0051.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0002",
+		"pointer_table_index": 25,
+		"file_index": 6296,
+		"source_file": "bin/mumbosmountain/image_0002.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0054",
+		"pointer_table_index": 25,
+		"file_index": 6297,
+		"source_file": "bin/mumbosmountain/image_0054.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0001",
+		"pointer_table_index": 25,
+		"file_index": 6298,
+		"source_file": "bin/mumbosmountain/image_0001.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0039",
+		"pointer_table_index": 25,
+		"file_index": 6299,
+		"source_file": "bin/mumbosmountain/image_0039.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0032",
+		"pointer_table_index": 25,
+		"file_index": 6300,
+		"source_file": "bin/mumbosmountain/image_0032.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0032_pal",
+		"pointer_table_index": 25,
+		"file_index": 6301,
+		"source_file": "bin/mumbosmountain/image_0032_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0010",
+		"pointer_table_index": 25,
+		"file_index": 6302,
+		"source_file": "bin/mumbosmountain/image_0010.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0048",
+		"pointer_table_index": 25,
+		"file_index": 6303,
+		"source_file": "bin/mumbosmountain/image_0048.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0048_pal",
+		"pointer_table_index": 25,
+		"file_index": 6304,
+		"source_file": "bin/mumbosmountain/image_0048_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0047",
+		"pointer_table_index": 25,
+		"file_index": 6305,
+		"source_file": "bin/mumbosmountain/image_0047.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0047_pal",
+		"pointer_table_index": 25,
+		"file_index": 6306,
+		"source_file": "bin/mumbosmountain/image_0047_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009",
+		"pointer_table_index": 25,
+		"file_index": 6307,
+		"source_file": "bin/mumbosmountain/image_0009.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0009_pal",
+		"pointer_table_index": 25,
+		"file_index": 6308,
+		"source_file": "bin/mumbosmountain/image_0009_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0046",
+		"pointer_table_index": 25,
+		"file_index": 6309,
+		"source_file": "bin/mumbosmountain/image_0046.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0038",
+		"pointer_table_index": 25,
+		"file_index": 6310,
+		"source_file": "bin/mumbosmountain/image_0038.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0036",
+		"pointer_table_index": 25,
+		"file_index": 6311,
+		"source_file": "bin/mumbosmountain/image_0036.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0036_pal",
+		"pointer_table_index": 25,
+		"file_index": 6312,
+		"source_file": "bin/mumbosmountain/image_0036_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0035",
+		"pointer_table_index": 25,
+		"file_index": 6313,
+		"source_file": "bin/mumbosmountain/image_0035.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0035_pal",
+		"pointer_table_index": 25,
+		"file_index": 6314,
+		"source_file": "bin/mumbosmountain/image_0035_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0034",
+		"pointer_table_index": 25,
+		"file_index": 6315,
+		"source_file": "bin/mumbosmountain/image_0034.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0034_pal",
+		"pointer_table_index": 25,
+		"file_index": 6316,
+		"source_file": "bin/mumbosmountain/image_0034_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0003",
+		"pointer_table_index": 25,
+		"file_index": 6317,
+		"source_file": "bin/mumbosmountain/image_0003.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0016",
+		"pointer_table_index": 25,
+		"file_index": 6318,
+		"source_file": "bin/mumbosmountain/image_0016.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0016_pal",
+		"pointer_table_index": 25,
+		"file_index": 6319,
+		"source_file": "bin/mumbosmountain/image_0016_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0017",
+		"pointer_table_index": 25,
+		"file_index": 6320,
+		"source_file": "bin/mumbosmountain/image_0017.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0017_pal",
+		"pointer_table_index": 25,
+		"file_index": 6321,
+		"source_file": "bin/mumbosmountain/image_0017_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0024",
+		"pointer_table_index": 25,
+		"file_index": 6322,
+		"source_file": "bin/mumbosmountain/image_0024.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0024_pal",
+		"pointer_table_index": 25,
+		"file_index": 6323,
+		"source_file": "bin/mumbosmountain/image_0024_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011",
+		"pointer_table_index": 25,
+		"file_index": 6324,
+		"source_file": "bin/mumbosmountain/image_0011.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0011_pal",
+		"pointer_table_index": 25,
+		"file_index": 6325,
+		"source_file": "bin/mumbosmountain/image_0011_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0023",
+		"pointer_table_index": 25,
+		"file_index": 6326,
+		"source_file": "bin/mumbosmountain/image_0023.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0023_pal",
+		"pointer_table_index": 25,
+		"file_index": 6327,
+		"source_file": "bin/mumbosmountain/image_0023_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0020",
+		"pointer_table_index": 25,
+		"file_index": 6328,
+		"source_file": "bin/mumbosmountain/image_0020.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0020_pal",
+		"pointer_table_index": 25,
+		"file_index": 6329,
+		"source_file": "bin/mumbosmountain/image_0020_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0018",
+		"pointer_table_index": 25,
+		"file_index": 6330,
+		"source_file": "bin/mumbosmountain/image_0018.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0018_pal",
+		"pointer_table_index": 25,
+		"file_index": 6331,
+		"source_file": "bin/mumbosmountain/image_0018_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0037",
+		"pointer_table_index": 25,
+		"file_index": 6332,
+		"source_file": "bin/mumbosmountain/image_0037.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0033",
+		"pointer_table_index": 25,
+		"file_index": 6333,
+		"source_file": "bin/mumbosmountain/image_0033.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0033_pal",
+		"pointer_table_index": 25,
+		"file_index": 6334,
+		"source_file": "bin/mumbosmountain/image_0033_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0030",
+		"pointer_table_index": 25,
+		"file_index": 6335,
+		"source_file": "bin/mumbosmountain/image_0030.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008",
+		"pointer_table_index": 25,
+		"file_index": 6336,
+		"source_file": "bin/mumbosmountain/image_0008.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0008_pal",
+		"pointer_table_index": 25,
+		"file_index": 6337,
+		"source_file": "bin/mumbosmountain/image_0008_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0031",
+		"pointer_table_index": 25,
+		"file_index": 6338,
+		"source_file": "bin/mumbosmountain/image_0031.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0012",
+		"pointer_table_index": 25,
+		"file_index": 6339,
+		"source_file": "bin/mumbosmountain/image_0012.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0013",
+		"pointer_table_index": 25,
+		"file_index": 6340,
+		"source_file": "bin/mumbosmountain/image_0013.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0057",
+		"pointer_table_index": 25,
+		"file_index": 6341,
+		"source_file": "bin/mumbosmountain/image_0057.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0056",
+		"pointer_table_index": 25,
+		"file_index": 6342,
+		"source_file": "bin/mumbosmountain/image_0056.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0055",
+		"pointer_table_index": 25,
+		"file_index": 6343,
+		"source_file": "bin/mumbosmountain/image_0055.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0041",
+		"pointer_table_index": 25,
+		"file_index": 6344,
+		"source_file": "bin/mumbosmountain/image_0041.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0043",
+		"pointer_table_index": 25,
+		"file_index": 6345,
+		"source_file": "bin/mumbosmountain/image_0043.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0043_pal",
+		"pointer_table_index": 25,
+		"file_index": 6346,
+		"source_file": "bin/mumbosmountain/image_0043_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0042",
+		"pointer_table_index": 25,
+		"file_index": 6347,
+		"source_file": "bin/mumbosmountain/image_0042.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0042_pal",
+		"pointer_table_index": 25,
+		"file_index": 6348,
+		"source_file": "bin/mumbosmountain/image_0042_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0045",
+		"pointer_table_index": 25,
+		"file_index": 6349,
+		"source_file": "bin/mumbosmountain/image_0045.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0040",
+		"pointer_table_index": 25,
+		"file_index": 6350,
+		"source_file": "bin/mumbosmountain/image_0040.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0040_pal",
+		"pointer_table_index": 25,
+		"file_index": 6351,
+		"source_file": "bin/mumbosmountain/image_0040_pal.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0044",
+		"pointer_table_index": 25,
+		"file_index": 6352,
+		"source_file": "bin/mumbosmountain/image_0044.bin",
+		"do_not_extract": True
+	},
+	{
+		"name": "image_0044_pal",
+		"pointer_table_index": 25,
+		"file_index": 6353,
+		"source_file": "bin/mumbosmountain/image_0044_pal.bin",
+		"do_not_extract": True
+	},

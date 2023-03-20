@@ -1,0 +1,141 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 355,
+                    "y_pos": 124,
+                    "z_pos": 646
+                },
+                {
+                    "x_pos": 227,
+                    "y_pos": 124,
+                    "z_pos": 631
+                },
+                {
+                    "x_pos": 115,
+                    "y_pos": 124,
+                    "z_pos": 479
+                },
+                {
+                    "x_pos": 160,
+                    "y_pos": 124,
+                    "z_pos": 349
+                },
+                {
+                    "x_pos": 263,
+                    "y_pos": 124,
+                    "z_pos": 457
+                },
+                {
+                    "x_pos": 352,
+                    "y_pos": 124,
+                    "z_pos": 552
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 0,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 251,
+                    "y_pos": 0,
+                    "z_pos": 931
+                },
+                {
+                    "x_pos": 378,
+                    "y_pos": 0,
+                    "z_pos": 1020
+                },
+                {
+                    "x_pos": 345,
+                    "y_pos": 0,
+                    "z_pos": 1140
+                },
+                {
+                    "x_pos": 231,
+                    "y_pos": 0,
+                    "z_pos": 1137
+                },
+                {
+                    "x_pos": 189,
+                    "y_pos": 0,
+                    "z_pos": 1027
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 300,
+            "y_pos": 124,
+            "z_pos": 579,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 0,
+            "scale": 64,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 20,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 27,
+            "enemy_val_name": "Klaptrap (Green)",
+            "unk1": 222,
+            "y_rot": 3300,
+            "x_pos": 361,
+            "y_pos": 0,
+            "z_pos": 1079,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 9,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 27,
+            "enemy_val_name": "Klaptrap (Green)",
+            "unk1": 222,
+            "y_rot": 3300,
+            "x_pos": 229,
+            "y_pos": 0,
+            "z_pos": 1014,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 9,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

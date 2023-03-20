@@ -1,0 +1,66 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1001,
+                    "y_pos": 5,
+                    "z_pos": 572
+                },
+                {
+                    "x_pos": 992,
+                    "y_pos": 5,
+                    "z_pos": 438
+                },
+                {
+                    "x_pos": 1110,
+                    "y_pos": 5,
+                    "z_pos": 391
+                },
+                {
+                    "x_pos": 1236,
+                    "y_pos": 5,
+                    "z_pos": 507
+                },
+                {
+                    "x_pos": 1148,
+                    "y_pos": 7,
+                    "z_pos": 601
+                },
+                {
+                    "x_pos": 1031,
+                    "y_pos": 5,
+                    "z_pos": 610
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1086,
+            "y_pos": 5,
+            "z_pos": 432,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 70,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 40,
+            "unk15": 0
+        }
+    ]
+}

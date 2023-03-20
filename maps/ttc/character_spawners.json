@@ -1,0 +1,521 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 2699,
+                    "y_pos": 365,
+                    "z_pos": 4153
+                },
+                {
+                    "x_pos": 2539,
+                    "y_pos": 360,
+                    "z_pos": 4158
+                },
+                {
+                    "x_pos": 2510,
+                    "y_pos": 370,
+                    "z_pos": 4038
+                },
+                {
+                    "x_pos": 2687,
+                    "y_pos": 366,
+                    "z_pos": 3955
+                },
+                {
+                    "x_pos": 2896,
+                    "y_pos": 365,
+                    "z_pos": 4007
+                },
+                {
+                    "x_pos": 2833,
+                    "y_pos": 355,
+                    "z_pos": 4198
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 0,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 2002,
+                    "y_pos": 357,
+                    "z_pos": 4012
+                },
+                {
+                    "x_pos": 2004,
+                    "y_pos": 353,
+                    "z_pos": 3769
+                },
+                {
+                    "x_pos": 2225,
+                    "y_pos": 365,
+                    "z_pos": 3710
+                },
+                {
+                    "x_pos": 2358,
+                    "y_pos": 366,
+                    "z_pos": 3944
+                },
+                {
+                    "x_pos": 2235,
+                    "y_pos": 350,
+                    "z_pos": 4047
+                },
+                {
+                    "x_pos": 2094,
+                    "y_pos": 351,
+                    "z_pos": 4009
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 2787,
+                    "y_pos": 359,
+                    "z_pos": 3125
+                },
+                {
+                    "x_pos": 2941,
+                    "y_pos": 352,
+                    "z_pos": 3138
+                },
+                {
+                    "x_pos": 3064,
+                    "y_pos": 368,
+                    "z_pos": 3217
+                },
+                {
+                    "x_pos": 2934,
+                    "y_pos": 375,
+                    "z_pos": 3267
+                },
+                {
+                    "x_pos": 2750,
+                    "y_pos": 363,
+                    "z_pos": 3219
+                },
+                {
+                    "x_pos": 2662,
+                    "y_pos": 356,
+                    "z_pos": 3127
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 3577,
+                    "y_pos": 366,
+                    "z_pos": 3069
+                },
+                {
+                    "x_pos": 3492,
+                    "y_pos": 366,
+                    "z_pos": 2951
+                },
+                {
+                    "x_pos": 3475,
+                    "y_pos": 370,
+                    "z_pos": 2730
+                },
+                {
+                    "x_pos": 3595,
+                    "y_pos": 366,
+                    "z_pos": 2615
+                },
+                {
+                    "x_pos": 3739,
+                    "y_pos": 359,
+                    "z_pos": 2787
+                },
+                {
+                    "x_pos": 3722,
+                    "y_pos": 364,
+                    "z_pos": 3066
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 3220,
+                    "y_pos": 322,
+                    "z_pos": 2276
+                },
+                {
+                    "x_pos": 3170,
+                    "y_pos": 320,
+                    "z_pos": 2545
+                },
+                {
+                    "x_pos": 3062,
+                    "y_pos": 322,
+                    "z_pos": 2867
+                },
+                {
+                    "x_pos": 2818,
+                    "y_pos": 320,
+                    "z_pos": 2949
+                },
+                {
+                    "x_pos": 2759,
+                    "y_pos": 320,
+                    "z_pos": 2658
+                },
+                {
+                    "x_pos": 2917,
+                    "y_pos": 320,
+                    "z_pos": 2366
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 4,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 2677,
+                    "y_pos": 1109,
+                    "z_pos": 2750
+                },
+                {
+                    "x_pos": 2765,
+                    "y_pos": 1109,
+                    "z_pos": 2728
+                },
+                {
+                    "x_pos": 2827,
+                    "y_pos": 1109,
+                    "z_pos": 2869
+                },
+                {
+                    "x_pos": 2764,
+                    "y_pos": 1109,
+                    "z_pos": 2933
+                },
+                {
+                    "x_pos": 2690,
+                    "y_pos": 1109,
+                    "z_pos": 2814
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 5,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 27,
+            "enemy_val_name": "Klaptrap (Green)",
+            "unk1": 222,
+            "y_rot": 3300,
+            "x_pos": 2831,
+            "y_pos": 364,
+            "z_pos": 4035,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 0,
+            "scale": 50,
+            "aggro": 9,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 27,
+            "enemy_val_name": "Klaptrap (Green)",
+            "unk1": 222,
+            "y_rot": 3300,
+            "x_pos": 2618,
+            "y_pos": 363,
+            "z_pos": 4082,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 0,
+            "scale": 50,
+            "aggro": 9,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2131,
+            "y_pos": 364,
+            "z_pos": 3896,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 60,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 16,
+            "enemy_val_name": "Kaboom",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2300,
+            "y_pos": 361,
+            "z_pos": 3894,
+            "cutscene_model": 0,
+            "unkB": 160,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 55,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 4,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 27,
+            "enemy_val_name": "Klaptrap (Green)",
+            "unk1": 222,
+            "y_rot": 3300,
+            "x_pos": 2893,
+            "y_pos": 371,
+            "z_pos": 3223,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 9,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 16,
+            "enemy_val_name": "Kaboom",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 3637,
+            "y_pos": 366,
+            "z_pos": 2921,
+            "cutscene_model": 0,
+            "unkB": 160,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 55,
+            "fence_id": 3,
+            "scale": 100,
+            "aggro": 4,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 16,
+            "enemy_val_name": "Kaboom",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 3504,
+            "y_pos": 370,
+            "z_pos": 2757,
+            "cutscene_model": 0,
+            "unkB": 160,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 55,
+            "fence_id": 3,
+            "scale": 100,
+            "aggro": 4,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 85,
+            "enemy_val_name": "Shuri",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2960,
+            "y_pos": 300,
+            "z_pos": 2535,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 10,
+            "max_aggro_speed": 20,
+            "fence_id": 4,
+            "scale": 100,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 8,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 85,
+            "enemy_val_name": "Shuri",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2923,
+            "y_pos": 300,
+            "z_pos": 2856,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 10,
+            "max_aggro_speed": 20,
+            "fence_id": 4,
+            "scale": 100,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 9,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 9,
+            "enemy_val_name": "Klump",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2275,
+            "y_pos": 530,
+            "z_pos": 3066,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 45,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 10,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 9,
+            "enemy_val_name": "Klump",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 3084,
+            "y_pos": 498,
+            "z_pos": 4236,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 45,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 12,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 9,
+            "enemy_val_name": "Klump",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2312,
+            "y_pos": 498,
+            "z_pos": 4222,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 45,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 13,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 9,
+            "enemy_val_name": "Klump",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1698,
+            "y_pos": 580,
+            "z_pos": 3300,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 45,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 14,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2736,
+            "y_pos": 1109,
+            "z_pos": 2815,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 5,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 11,
+            "initial_respawn_timer": 60,
+            "unk15": 0
+        }
+    ]
+}
