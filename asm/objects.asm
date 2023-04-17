@@ -1,3 +1,6 @@
 .importobj "obj/src_f3dex2.o"
+.importobj "obj/src_init.o"
 .importobj "obj/src_lib.o"
 .importobj "obj/src_main.o"
+.importobj "obj/src_stack_trace.o"
+.importobj "obj/src_tag_anywhere.o"

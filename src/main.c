@@ -223,6 +223,10 @@ void cFuncLoop(void) {
 	startupSkip();
 	StorySkip = 1;
 	
+	//tag anywhere
+	initHack();
+	tagAnywhere();
+	
 	//skybox hack to pre-load next skybox texture
 	//also set initial facing angle
 	if(LZFadeoutProgress >= 25.0f) {
@@ -255,7 +259,7 @@ void cFuncLoop(void) {
 			break;
 		case LAIR_F3:
 			if(checkRadialDistance(2500.0f,90.8f, 119.9f)) {
-				if(NewlyPressedControllerInput.Buttons == L_Button) {
+				if(NewlyPressedControllerInput.Buttons.l) {
 					moveLoadingZone(BANJOS_HOUSE, (short)Player->xPos,(short)Player->yPos,(short)Player->zPos);
 					playSound(SFX_TakeWarp, 0x4FFF, 63.0f, 1.0f, 0, 0);
 				}

@@ -43,6 +43,36 @@ extern int* drawImage(int* dl, int text_index, codecs codec_index, int img_width
 extern short style1Mtx[0x10];
 extern short style6Mtx[0x10];
 
+extern s32 hasTurnedInEnoughCBs(void);
+extern s32 getWorld(maps map, s32 lobby_is_isles);
+extern void tagKong(s32 kong_actor_index);
+extern void clearGun(void* player);
+extern void clearTagSlide(void* player);
+extern void cancelMusic(s32 song, s32 unk0);
+extern void removeGorillaGone(void* actor);
+extern void playAnimation(void* player, s32 anim_index);
+extern void handleAnimation(void* actor);
+extern void assessFlagMapping(s32 map, s32 id);
+extern void coinCBCollectHandle(s32 player, s32 obj, s32 is_homing);
+extern s32 playSFXFromObject(s32 object_index, s16 sfx, s8 unk0, s8 unk1, s8 unk2, s8 unk3, f32 unk4);
+extern void displayItemOnHUD(s32 item, s32 unk0, s32 unk1);
+extern s32 printDebugText(char* string, s32 v1, s32 v2, s32 v3, s32 v4);
+extern void dumpReturns(void* info);
+extern s32 __osGetThreadId(void* thread);
+
+extern hudData* HUD;
+
+extern collected_item_struct* CollectedObjects;
+extern collected_item_struct* LatestCollectedObject;
+extern s32 StackTraceX;
+extern s32 StackTraceY;
+extern s32 StackTraceSize;
+extern s32 StackTraceStartX;
+extern stack_trace_address_struct StackTraceAddresses[19];
+extern char* ReasonExceptions[20];
+extern unsigned char ReasonCode;
+extern int ReasonValues[3];
+
 // Vanilla data
 extern f32 TransitionSpeed;
 extern s8 CutsceneWillPlay;
@@ -127,7 +157,7 @@ extern s32* bbbandit_array[4];
 extern s8 StoredDamage;
 extern void* ActorSpawnerPointer;
 extern f32 LZFadeoutProgress;
-extern HUDDisplay* HUD;
+//extern HUDDisplay* HUD;
 extern songStruct songArray[0xC0];
 extern u8 LevelIndexes[0xDC];
 extern CollectableFlagStruct CollectableFlagTable[113];
@@ -143,3 +173,4 @@ extern char menuIntroCS;
 //Loading Zones
 extern LoadingZone *loadingZoneArray;
 extern unsigned short loadingZoneArraySize;
+
